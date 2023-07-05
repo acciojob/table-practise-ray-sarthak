@@ -2,8 +2,11 @@
 
 th, td,table {
   background-color: yellow;
-	border:2px solid
+	border:1px solid
 }
 table{
 		background-color: yellow;
+}
+caption{
+		display
 }
